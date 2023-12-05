@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreesha Shetty</h1>
+
 - 🔭 I’m interested in *C Programming and SQL.*
 
 - 🌱 I’m currently learning *Manual testing and Selenium testing.*
